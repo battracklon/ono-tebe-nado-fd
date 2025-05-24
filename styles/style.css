@@ -10,7 +10,7 @@ header {
   align-items: center;
   justify-items:center;
   padding: 95px 50px 93px 47px;
-  background-color: #fff; 
+  background-color: #fff;
 }
 
 .header-menu {
@@ -291,6 +291,7 @@ footer {
 
 .footer__menu-list {
   list-style-type: none;
+  text-align: center;
 }
 
 .footer__social-list {
@@ -298,7 +299,6 @@ footer {
   list-style-type: none;
   justify-self: end;
   margin-right: 50px;
-  display: flex;
   justify-content: space-between;
   width: 240px;
 }
@@ -310,9 +310,6 @@ footer {
   line-height: 1.35;
 }
 
-.footer__menu-list {
-  text-align: center;
-}
 
 .footer__menu-link {
   text-decoration: underline;
