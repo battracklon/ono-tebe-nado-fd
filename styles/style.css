@@ -51,17 +51,13 @@ header {
 }
 
 address {
-  font-size: 18px;  
+  font-size: 18px;
   font-style: normal;
 }
 
 .header__address {
-  justify-self: end;  
+  justify-self: end;
   max-width: 240px;
-}
-
-.footer__address {
-  justify-self: end;  
 }
 
 .header-address-text {
