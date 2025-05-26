@@ -60,7 +60,7 @@ address {
   max-width: 240px;
 }
 
-.header-address-text {
+.header__address .address-text {
   line-height: 1.5;
 }
 
@@ -313,6 +313,10 @@ footer {
   justify-self: start;
   padding-left: 50px;
   max-width: 100%;
+  line-height: 1.35;
+}
+
+.footer__address .address-text {
   line-height: 1.35;
 }
 
