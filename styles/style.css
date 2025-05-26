@@ -73,7 +73,6 @@ main {
   background-position: center;
   background-size: cover;
   position: relative;
-  /* height: 500px; */
 }
 
 .overlay {
@@ -319,7 +318,6 @@ footer {
 .footer__address .address-text {
   line-height: 1.35;
 }
-
 
 .footer__menu-link {
   text-decoration: underline;
